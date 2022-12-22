@@ -29,8 +29,6 @@ void ImprimeEncadeada(NO *, int);
 int main(){
 
     int escolha;
-
-    //tamanho da lista
     
     NO * inicio = NULL;
     
